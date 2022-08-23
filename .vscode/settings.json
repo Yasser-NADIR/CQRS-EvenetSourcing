@@ -1,0 +1,5 @@
+{
+    "java.project.sourcePaths": [
+        "bank-account/account.cmd/src/main/java/com/techbank/account/cmd"
+    ]
+}
