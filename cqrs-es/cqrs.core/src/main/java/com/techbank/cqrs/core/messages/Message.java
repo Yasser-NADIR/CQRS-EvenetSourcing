@@ -1,4 +1,4 @@
-package com.techbank.cqrs.core.message;
+package com.techbank.cqrs.core.messages;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

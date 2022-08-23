@@ -1,6 +1,6 @@
 package com.techbank.account.cmd.api.command;
 
-import com.techbank.cqrs.core.command.BaseCommand;
+import com.techbank.cqrs.core.commands.BaseCommand;
 
 
 public class CloseAccountCommand extends BaseCommand{

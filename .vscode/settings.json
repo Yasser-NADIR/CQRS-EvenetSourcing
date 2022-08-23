@@ -3,5 +3,5 @@
         "bank-account/account.cmd/src/main/java/com/techbank/account/cmd",
         "cqrs-es/cqrs.core/src/main/java/com/techbank/cqrs/core"
     ],
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "automatic"
 }

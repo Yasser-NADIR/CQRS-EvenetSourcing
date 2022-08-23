@@ -1,6 +1,6 @@
-package com.techbank.cqrs.core.command;
+package com.techbank.cqrs.core.commands;
 
-import com.techbank.cqrs.core.message.Message;
+import com.techbank.cqrs.core.messages.Message;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

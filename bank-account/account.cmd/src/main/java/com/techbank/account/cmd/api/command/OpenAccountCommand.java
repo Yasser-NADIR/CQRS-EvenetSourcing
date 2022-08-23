@@ -1,7 +1,7 @@
 package com.techbank.account.cmd.api.command;
 
 import com.techbank.account.common.dto.AccountType;
-import com.techbank.cqrs.core.command.BaseCommand;
+import com.techbank.cqrs.core.commands.BaseCommand;
 
 import lombok.Data;
 
