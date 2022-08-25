@@ -9,7 +9,8 @@ import org.springframework.stereotype.Service;
 
 import com.techbank.cqrs.core.commands.BaseCommand;
 import com.techbank.cqrs.core.commands.CommandHandlerMethod;
-import com.techbank.cqrs.core.events.CommandDispatcher;
+
+import com.techbank.cqrs.core.infrastructure.CommandDispatcher;
 
 @Service
 public class AccountCommandDispatcher implements CommandDispatcher {
